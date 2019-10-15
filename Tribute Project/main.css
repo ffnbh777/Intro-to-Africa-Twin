@@ -1,0 +1,28 @@
+body {
+  background-color: lightblue;
+}
+
+img {
+  width: 20%;
+  height: auto;
+}
+
+/* unvisited link */
+a:link {
+  color: green;
+}
+
+/* visited link */
+a:visited {
+  color: red;
+}
+
+/* mouse over link */
+a:hover {
+  color: darkblue;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
